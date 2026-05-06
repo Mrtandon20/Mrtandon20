@@ -44,11 +44,11 @@
 
 ## 📊 GitHub Stats
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtandon20&show_icons=true&theme=tokyonight)
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtandon20&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtandon20&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtandon20&layout=compact&theme=dark&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Mrtandon20&theme=dark&hide_border=true)
 
 ## 🌐 Connect with Me
 
